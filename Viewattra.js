@@ -42,11 +42,7 @@ class AttractionCards extends Component {
      <>
 <div id="parallax-world-of-ugg">
 
-<section>
-<div className="titles">
-<h1>View Attractions</h1>
-</div>
-</section>
+
 
 <section>
 <div className="parallax">
